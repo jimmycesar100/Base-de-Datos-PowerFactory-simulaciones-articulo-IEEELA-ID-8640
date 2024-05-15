@@ -1,5 +1,6 @@
 # Base-de-Datos-PowerFactory-simulaciones-articulo-IEEELA-ID-8640
-Base de Datos PowerFactory simulaciones articulo IEEELA ID 8640
+
+Power System Stability Improvement Using STATCOM: New Practical Method for Placement and Sizing
 
 Las simulaciones de sistemas de potencia fueron realizados en el siguiente programa:
 
